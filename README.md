@@ -1,1 +1,3 @@
-# github.com-yannickos-covid19_terminal
+COVID19 terminal application
+
+math wizards and statistics are welcome
