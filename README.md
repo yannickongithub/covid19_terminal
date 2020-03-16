@@ -1,1 +1,1 @@
-# github.com-yannickos-COVID19_terminal
+# github.com-yannickos-covid19_terminal
